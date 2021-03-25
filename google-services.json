@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "447964364118",
+    "project_id": "bitrisedemo-d0ecf",
+    "storage_bucket": "bitrisedemo-d0ecf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:447964364118:android:b659050c138f44abfd6af7",
+        "android_client_info": {
+          "package_name": "com.coby.bitrisedemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "447964364118-i91ugkcaa5vfod679qj415s0593sbn9d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAb_eKxCWkcNCCTlDm9gD00jFPpBmot3Jo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "447964364118-i91ugkcaa5vfod679qj415s0593sbn9d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:447964364118:android:c986ba377c3660c2fd6af7",
+        "android_client_info": {
+          "package_name": "com.coby.bitrisedemo.dev"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "447964364118-i91ugkcaa5vfod679qj415s0593sbn9d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAb_eKxCWkcNCCTlDm9gD00jFPpBmot3Jo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "447964364118-i91ugkcaa5vfod679qj415s0593sbn9d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
